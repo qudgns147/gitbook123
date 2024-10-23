@@ -36,7 +36,7 @@ Tibero Studio를 실행하고 나서 데이터베이스 서버에 접속하면 �
     * PSM Editor
 *   **⑤ ETC**
 
-    그외 Task List, SQL History, Template, Invalid Object Recompile, Exp/Imp 등 다양한 기능을 제공한다. 자세한 설명은 ["ETC"](../etc/)를 참고한다.&#x20;
+    그외 Task List, SQL History, Template, Invalid Object Recompile, Exp/Imp 등 다양한 기능을 제공한다. 자세한 설명은 ["ETC"](../../etc/)를 참고한다.&#x20;
 
 ## 화면 세부 기능 <a href="#d5e974" id="d5e974"></a>
 
