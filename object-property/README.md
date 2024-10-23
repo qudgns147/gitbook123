@@ -1,3 +1,0 @@
-# Object Property
-
-ㅅ
